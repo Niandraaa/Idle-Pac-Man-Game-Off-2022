@@ -1,0 +1,1 @@
+self.State = enemy_startchase
